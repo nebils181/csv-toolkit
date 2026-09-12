@@ -1,0 +1,6 @@
+id,username,full_name,age,city,email
+1,jdoe,"Doe, John",29,New York,jdoe@example.com
+2,asmith,"Smith, Anna",34,Boston,asmith@example.com
+3,bwong,"Wong, Ben",22,"San Francisco",bwong@example.com
+4,mkumar,"Kumar, Meera",41,Chicago,mkumar@example.com
+5,jdoe2,"Doe, Jane",29,New York,jdoe2@example.com
